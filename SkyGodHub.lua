@@ -347,7 +347,7 @@ function Blacklib:Window()
     end)
     spawn(function()
         while task.wait() do
-            titlefunc:Refresh("MinGaming")
+            titlefunc:Refresh("SkyGod Hub")
         end
     end)
     -- End Windows --
